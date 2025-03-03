@@ -3,6 +3,7 @@
 Juan Francisco Jacobo Rodriguez
 
 LinkedIn: https://www.linkedin.com/in/juan-francisco-jacobo-rodriguez-54bb7b273/
+
 Github: https://github.com/jfjacobo
 ### App Description
 This application is based on the services provided by Google Maps to rate a restaurant, based on the user rating, a description of how the experience was, if the user decided to enter it, and at the same time a space to add an optional picture about the restaurant, menu, food, etc.
