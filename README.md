@@ -1,6 +1,7 @@
 ## Instafeed
 ### Creator
 Juan Francisco Jacobo Rodriguez
+
 LinkedIn: https://www.linkedin.com/in/juan-francisco-jacobo-rodriguez-54bb7b273/
 Github: https://github.com/jfjacobo
 ### App Description
